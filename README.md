@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, my name is Sam, but you can just call me Sparksammy. As you can probably tell, I love FOSS and coding. But I love food as well. One of my biggest dreams is to tour the world (paid by Food Network) eating food. But most important of all for coders, I like making solutions for problems with code. My favorite languages and frameworks are Javascript/NodeJS, HTML, Cordova, Electron, and COSMOS/C#. I am learning everyday about new concepts in Computer Programming, so I hope you enjoy my projects, as well as the ones I've backed up.
+Hello, my name is Sam, but you can just call me Sparksammy. I am a male, if you don't know me. As you can probably tell, I love FOSS and coding. But I love food as well. One of my biggest dreams is to tour the world (paid by Food Network) eating food. But most important of all for coders, I like making solutions for problems with code. My favorite languages and frameworks are Javascript/NodeJS, HTML, Cordova, Electron, and COSMOS/C#. I am learning everyday about new concepts in Computer Programming, so I hope you enjoy my projects, as well as the ones I've backed up.
 <!--
 **sparksammy/sparksammy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
